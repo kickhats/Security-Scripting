@@ -16,3 +16,11 @@ Once the user has logged in successfully they will be given access to the follow
 Registered User:
 Name: Adocherty
 Password: PNAccess
+
+==========================================================================================================
+
+I understand that, despite this being a *Security* Scripting class, the login credentials are just in main.py. Don't question that, this is an educational scenario after all.
+
+There's also some things that aren't needed. This could all be in one file, but we needed to demonstrate the use of modules, so separate files can show that. There's also the use of a constructor. We've not been taught this yet, however the SQA (Scottish Qualifications Authority) required us to use one anyway. I just copied and pasted from my tutor as I was told to do. _Learning!_
+
+Anyway. This program is fairly dumb. I'm not proud of it, other than it took me maybe one day to do, and I haven't touched Python since November 2019.
