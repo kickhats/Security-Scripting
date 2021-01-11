@@ -17,7 +17,7 @@ Registered User:
 Name: Adocherty
 Password: PNAccess
 
-===================================================================================
+============================================================================
 
 I understand that, despite this being a *Security* Scripting class, the login credentials are just in main.py. Don't question that, this is an educational scenario after all.
 
